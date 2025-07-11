@@ -26,29 +26,29 @@ This game consists of three narrative levels, each designed to teach and challen
 
 I was responsible for all aspects of level design, with a focus on:
 
-- **Environment Design: Built all three levels from scratch using prefabs, hazards, and layered tilemaps.
-- **Narrative Progression: Designed thematic and emotional flow across each level.
-- **Visual Storytelling: Used lighting, tiles, and skyboxes to reinforce level mood and difficulty.
-- **Player Learning: Applied indirect teaching methods (e.g. layout cues, checkpoints) to guide players
-- **Playtesting & Feedback: Iterated based on personal testing and peer feedback
+- **Environment Design:** Built all three levels from scratch using prefabs, hazards, and layered tilemaps.
+- **Narrative Progression:** Designed thematic and emotional flow across each level.
+- **Visual Storytelling:** Used lighting, tiles, and skyboxes to reinforce level mood and difficulty.
+- **Player Learning:** Applied indirect teaching methods (e.g. layout cues, checkpoints) to guide players
+- **Playtesting & Feedback:** Iterated based on personal testing and peer feedback
 
 ---
 
 ## Challenges Faced
 
-- **Prefab Limitations: Navigated restrictions of the prebuilt 2D Game Kit while building unique layouts
-- **Balancing Difficulty: Ensured each level was learnable without losing engagement
-- **Workflow Hiccups: Faced Unity versioning and prefab import errors when switching machines
-- **Narrative Cohesion: Adjusted visual tone and level pacing to feel like a consistent and cohesive narrative arc. 
+- **Prefab Limitations:** Navigated restrictions of the prebuilt 2D Game Kit while building unique layouts
+- **Balancing Difficulty:** Ensured each level was learnable without losing engagement
+- **Workflow Hiccups:** Faced Unity versioning and prefab import errors when switching machines
+- **Narrative Cohesion:** Adjusted visual tone and level pacing to feel like a consistent and cohesive narrative arc. 
 
 ---
 
 ## Key Learnings
 
-- **Level Design Principles: Deepened understanding of layout, pacing, and difficulty curves
-- **Narrative Integration: Learned to embed emotion and story into spatial design
-- **Unity Tilemaps: Gained confidence with layering, collision maps, and decorative tiles
-- **Iterative Testing: Embraced feedback cycles to refine layouts and learning flow
+- **Level Design Principles:** Deepened understanding of layout, pacing, and difficulty curves
+- **Narrative Integration:** Learned to embed emotion and story into spatial design
+- **Unity Tilemaps:** Gained confidence with layering, collision maps, and decorative tiles
+- **Iterative Testing:** Embraced feedback cycles to refine layouts and learning flow
 
 ---
 
